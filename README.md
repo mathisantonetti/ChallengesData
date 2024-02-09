@@ -1,0 +1,1 @@
+This repository purpose is to stock all the solutions developed for data challenges in order to use them for other ML applications.
